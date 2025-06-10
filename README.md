@@ -2,9 +2,6 @@
 
 Atividade - Pilha/Fila
 
-Documentação de Implementações em Java
-Este repositório contém a documentação e o código fonte de duas implementações em Java:
-
 Botões de Avançar e Voltar do Navegador:
 Implementação dos botões de avançar e voltar de um navegador web.
 Utiliza pilhas (stacks) para armazenar o histórico de navegação.
